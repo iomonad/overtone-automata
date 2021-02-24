@@ -6,5 +6,6 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [overtone "0.10.6"]
                  [quil "3.1.0"]
-                 [complex/complex "0.1.12"]]
+                 [complex/complex "0.1.12"]
+                 [leipzig "0.10.0"]]
   :repl-options {:init-ns overtone-automata.core})
